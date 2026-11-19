@@ -1,5 +1,15 @@
 # EMTweaks Installer — source
 
+## Download the built installer
+
+The compiled binaries are attached to the
+[Releases page](https://github.com/hmokha04-sudo/emttweaks-premium-free-cracked/releases):
+
+- `EMTweaks-Setup.exe` — full installer, carries the application payload
+- `uninstall.exe` — standalone uninstaller
+
+Everything below is the source those binaries were built from.
+
 This is the complete source for `EMTweaks-Setup.exe` and `uninstall.exe`.
 It is published so anyone can read exactly what the installer does and verify
 that it is a plain installer, not malware.
